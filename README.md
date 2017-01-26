@@ -12,3 +12,4 @@
 
 # 业务规则总结（非技术）
 - [零售行业优惠规则](promotion_rule.md)
+test
